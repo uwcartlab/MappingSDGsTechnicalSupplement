@@ -51,6 +51,6 @@ The tutorials are meant to enhance but not replicate information from _Mapping f
 - [3.2 - Selecting and Styling Data](/3_Nominal/3.2_select_and_style.md)
 - [3.3 - ADvanced Styling](/3_Nominal/3.3_layout.md)
 
-**Tutorial 3 - Nominal**
+**Tutorial 4 - Future Directions**
 - [4.1 - Recommendations on Gathering Data](/4_Future_Directions/4.1_Recommendations_own_data.md)
 - [4.2 - Recommendations for Classroom Use](/4_Future_Directions/4.2_K12_Classroom_Use.md)
