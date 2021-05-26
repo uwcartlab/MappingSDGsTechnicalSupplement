@@ -22,3 +22,35 @@ The tutorials are meant to enhance but not replicate information from _Mapping f
 
 [**Introduction**](/0_Introduction/0.1_Overview.md)
 
+**Tutorial 1 - Choropleth Map**
+- [1.1 - Overview and Project Planning](/1_Choropleth/1.1_Scope.md)
+- [1.2 - Downloading QGIS](/1_Choropleth/1.2_Download_QGIS.md)
+- [1.3 - Downloading Location and Attribute Data](/1_Choropleth/1.3_Download_Data.md)
+- [1.4 - Cleaning Attribute Data](/1_Choropleth/1.4_Clean_Data.md)
+- [1.5 - Creating a Project and Setting the Projection](/1_Choropleth/1.5_Project_and_Save.md)
+- [1.6 - Adding and Joining Attribute Data](/1_Choropleth/1.6_Add_Data.md)
+- [1.7 - Editing the Attribute Table](/1_Choropleth/1.7_Edit_Attribute_table_Map_Algebra.md)
+- [1.8 - Classifying Attribute Data](/1_Choropleth/1.8_Classify_Data.md)
+- [1.9 - Visual Accenting](/1_Choropleth/1.9_Visual_Accenting.md)
+- [1.10 - Labeling and Leader Lines](/1_Choropleth/1.10_Labels.md)
+- [1.11 - Adding Elements to Layout View](/1_Choropleth/1.11_Layout.md)
+- [1.12 - Exporting the Map](/1_Choropleth/1.12_Save.md)
+- [1.13 - Advanced Layout Styling](/1_Choropleth/1.13_Advanced_Layout.md)
+
+**Tutorial 2 - Proportional Symbol Map**
+- [2.1 - Overview and Setup](/2_Proportional_Symbol/2.1_proportional_setup.md)
+- [2.2 - Projecting Map and Adding Data](/2_Proportional_Symbol/2.2_project_and_data.md)
+- [2.3 - Extracting European Countries and Centroids](/2_Proportional_Symbol/2.3_select_europe_and_centroids.md)
+- [2.4 - Setting Proportional Symbols](/2_Proportional_Symbol/2.4_proportional_symbol.md)
+- [2.5 - Adjusting Style](/2_Proportional_Symbol/2.5_styling.md)
+- [2.6 - Creating the Legend](/2_Proportional_Symbol/2.6_legend.md)
+- [2.7 - Advanced Layout Styling](/2_Proportional_Symbol/2.7_layout.md)
+
+**Tutorial 3 - Nominal**
+- [3.1 - Overview and Setup](/3_Nominal/3.1_nominal_setup.md)
+- [3.2 - Selecting and Styling Data](/3_Nominal/3.2_select_and_style.md)
+- [3.3 - ADvanced Styling](/3_Nominal/3.3_layout.md)
+
+**Tutorial 3 - Nominal**
+- [4.1 - Recommendations on Gathering Data](/4_Future_Directions/4.1_Recommendations_own_data.md)
+- [4.2 - Recommendations for Classroom Use](/4_Future_Directions/4.2_K12_Classroom_Use.md)
