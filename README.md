@@ -49,7 +49,7 @@ The tutorials are meant to enhance but not replicate information from _Mapping f
 **Tutorial 3 - Nominal**
 - [3.1 - Overview and Setup](/3_Nominal/3.1_nominal_setup.md)
 - [3.2 - Selecting and Styling Data](/3_Nominal/3.2_select_and_style.md)
-- [3.3 - ADvanced Styling](/3_Nominal/3.3_layout.md)
+- [3.3 - Advanced Styling](/3_Nominal/3.3_layout.md)
 
 **Tutorial 4 - Future Directions**
 - [4.1 - Recommendations on Gathering Data](/4_Future_Directions/4.1_Recommendations_own_data.md)
