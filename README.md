@@ -1,6 +1,11 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5585647.svg)](https://doi.org/10.5281/zenodo.5585647)
+
+
+---
+
 # Mapping for a Sustainable World: QGIS technical supplement
 
-###### Cite/Attribute as: Houtman L, and R.E. Roth. 2021. _Mapping for a Sustainable World: QGIS technical supplement_. The University of Wisconsin Cartography Lab.
+###### Cite/Attribute as: Houtman L, and R.E. Roth. 2021. _Mapping for a Sustainable World: QGIS technical supplement_. The University of Wisconsin Cartography Lab. DOI: 10.5281/zenodo.5585647
 
 ---
 
