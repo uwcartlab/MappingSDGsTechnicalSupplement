@@ -3,11 +3,11 @@
 
 ---
 
-# Mapping for a Sustainable World: QGIS technical supplement
+# Mapping for a Sustainable World: QGIS Technical Supplement
 
-###### Cite/Attribute as: Houtman L, G Baldrica-Franklin, and R.E. Roth. 2025. _Mapping for a Sustainable World: QGIS technical supplement_. The University of Wisconsin Cartography Lab. DOI: 10.5281/zenodo.5585647
+###### Cite/Attribute as: Houtman L, G Baldrica-Franklin, and R.E. Roth. 2025. _Mapping for a Sustainable World: QGIS Technical Supplement_. The University of Wisconsin Cartography Lab. DOI: 10.5281/zenodo.5585647
 
-###### These tutorials previously were published as: Houtman L and R.E. Roth. 2021. _Mapping for a Sustainable World: QGIS technical supplement_. The University of Wisconsin Cartography Lab. DOI: 10.5281/zenodo.5585647
+###### These tutorials previously were published as: Houtman L and R.E. Roth. 2021. _Mapping for a Sustainable World: QGIS Technical Supplement_. The University of Wisconsin Cartography Lab. DOI: 10.5281/zenodo.5585647
 
 ---
 
@@ -34,7 +34,7 @@ The tutorials are meant to enhance but not replicate information from *Mapping f
 - [1.2 - Downloading QGIS](/1_Choropleth/1.2_Download_QGIS.md)
 - [1.3 - Downloading Location and Attribute Data](/1_Choropleth/1.3_Download_Data.md)
 - [1.4 - Cleaning Attribute Data](/1_Choropleth/1.4_Clean_Data.md)
-- [1.5 - Creating a Project and Setting the Projection](/1_Choropleth/1.5_Project_and_Save.md)
+- [1.5 - Creating a Project](/1_Choropleth/1.5_Project_and_Save.md)
 - [1.6 - Adding and Joining Attribute Data](/1_Choropleth/1.6_Add_Data.md)
 - [1.7 - Editing the Attribute Table](/1_Choropleth/1.7_Edit_Attribute_table_Map_Algebra.md)
 - [1.8 - Classifying Attribute Data](/1_Choropleth/1.8_Classify_Data.md)
@@ -58,6 +58,17 @@ The tutorials are meant to enhance but not replicate information from *Mapping f
 - [3.2 - Selecting and Styling Data](/3_Nominal/3.2_select_and_style.md)
 - [3.3 - Advanced Styling](/3_Nominal/3.3_layout.md)
 
-**Tutorial 4 - Future Directions**
-- [4.1 - Recommendations on Gathering Data](/4_Future_Directions/4.1_Recommendations_own_data.md)
-- [4.2 - Recommendations for Classroom Use](/4_Future_Directions/4.2_K12_Classroom_Use.md)
+**Tutorial 4 - Dot Density**
+- [4.1 - Overview and Setup](/4_Dot_Density/4.1_Dot_Setup.md)
+- [4.2 - Adding and Joining Data](/4_Dot_Density/4.2_Adding_Joining_Data.md)
+- [4.3 - Creating Dot Density Layer](/4_Dot_Density/4.3_Creating_Dot_layer.md)
+
+**Tutorial 5 - Export**
+- [5.1 - Creating and Exporting QGIS Layout](/5_Export/5.1_QGIS_Export_Layout.md)
+- [5.2 - Preparing an SVG in Graphic Design Software](/5_Export/5.2_SVG_Prep_In_Illustrator.md)
+
+**Tutorial 6 - Future Directions**
+- [6.1 - Recommendations on Gathering Additional Data](/6_Future_Directions/6.1_Recommendations_Own_Data.md)
+- [6.2 - Recommendations for Reprojecting in QGIS](/6_Future_Directions/6.2_Recommendations_Reprojection.md)
+- [6.3 - Recommendations for Normalizing Data in QGIS](/6_Future_Directions/6.3_Recommendations_Reprojection.md)
+- [6.2 - Recommendations for Classroom Use](/6_Future_Directions/6.4_K12_Classroom_Use.md)
