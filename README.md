@@ -37,12 +37,12 @@ The tutorials are meant to enhance but not replicate information from *Mapping f
 - [1.5 - Creating a Project](/1_Choropleth/1.05_Project_and_Save.md)
 - [1.6 - Adding and Joining Attribute Data](/1_Choropleth/1.06_Add_Data.md)
 - [1.7 - Editing the Attribute Table](/1_Choropleth/1.07_Edit_Attribute_table_Map_Algebra.md)
-- [1.8 - Classifying Attribute Data](/1_Choropleth/1.08_Classify_Data.md)
-- [1.9 - Visual Accenting](/1_Choropleth/1.09_Visual_Accenting.md)
-- [1.10 - Labeling and Leader Lines](/1_Choropleth/1.10_Labels.md)
-- [1.11 - Adding Elements to Layout View](/1_Choropleth/1.11_Layout.md)
-- [1.12 - Exporting the Map](/1_Choropleth/1.12_Save.md)
-- [1.13 - Advanced Layout Styling](/1_Choropleth/1.13_Advanced_Layout.md)
+- [1.7 - Classifying Attribute Data](/1_Choropleth/1.07_Classify_Data.md)
+- [1.8 - Visual Accenting](/1_Choropleth/1.08_Visual_Accenting.md)
+- [1.9 - Labeling and Leader Lines](/1_Choropleth/1.9_Labels.md)
+- [1.10 - Adding Elements to Layout View](/1_Choropleth/1.10_Layout.md)
+- [1.11 - Exporting the Map](/1_Choropleth/1.11_Save.md)
+- [1.12 - Advanced Layout Styling](/1_Choropleth/1.12_Advanced_Layout.md)
 
 **Tutorial 2 - Proportional Symbol Map**
 - [2.1 - Overview and Setup](/2_Proportional_Symbol/2.01_proportional_setup.md)
