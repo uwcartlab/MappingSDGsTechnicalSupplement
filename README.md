@@ -27,7 +27,7 @@ The tutorials are meant to enhance but not replicate information from *Mapping f
 
 ## Table of Contents
 
-[**Introduction**](/0_Introduction/0.1_Overview.md)
+[**Introduction**](/0_Introduction/0.01_Overview.md)
 
 **Tutorial 1 - Choropleth Map**
 - [1.1 - Overview and Project Planning](/1_Choropleth/1.01_Scope.md)
