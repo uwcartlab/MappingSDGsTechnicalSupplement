@@ -71,4 +71,4 @@ The tutorials are meant to enhance but not replicate information from *Mapping f
 - [6.1 - Recommendations on Gathering Additional Data](/6_Future_Directions/6.01_Recommendations_Own_Data.md)
 - [6.2 - Recommendations for Reprojecting in QGIS](/6_Future_Directions/6.02_Recommendations_Reprojection.md)
 - [6.3 - Recommendations for Normalizing Data in QGIS](/6_Future_Directions/6.03_Recommendations_Reprojection.md)
-- [6.2 - Recommendations for Classroom Use](/6_Future_Directions/6.04_K12_Classroom_Use.md)
+- [6.4 - Recommendations for Classroom Use](/6_Future_Directions/6.04_K12_Classroom_Use.md)
